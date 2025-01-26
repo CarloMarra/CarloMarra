@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 ## 🛠️ Projects
 ### 🌊 **Semantic Segmentation for SAR-Based Oil Spill Detection**
 - **Description:** Applying deep learning to detect oil spills using Sentinel-1 satellite data.
-- **Highlights:** Experimenting with advanced architectures like UNet, LinkNet, PSPNet, and DeepLabv2.
+- **Highlights:** Experimenting with advanced architectures: UNet, LinkNet, PSPNet, DeepLabv3 and CBD-Net.
 - **Tools:** Python, PyTorch, PyTorch Lightning, SAR Imaging.
+- **Repository:** [Sim-to-Real RL Project](https://github.com/adsp-polito/2024-P11-SAR.git)
 
 ### 🎤 **Voice-Controlled Temperature and Humidity Sensor System**
 - **Description:** Building a voice-activated system using speech recognition, deployed on Raspberry Pi.
