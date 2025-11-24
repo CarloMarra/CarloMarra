@@ -23,6 +23,13 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ Projects
+
+### 📌 **Slimmable and Early-Exit Neural Networks for Nano-Drone Object Detection**
+- **Description:** Design and deployment of adaptive object detection models for severely constrained platforms such as nano-drones.
+- **Highlights:** Implemented a slimmable **MobileNetV2 SSDLite-512** with channel gating supporting **four widths (0.25×, 0.5×, 0.75×, 1.0×)**. Introduced an early-exit mechanism able to skip or route inputs through reduced subnetworks based on scene complexity.
+- **Tools:** Python, PyTorch, Albumentations, Matplotlib.
+
+
 ### 🌊 **Semantic Segmentation for SAR-Based Oil Spill Detection**
 - **Description:** Applying deep learning to detect oil spills using Sentinel-1 satellite data.
 - **Highlights:** Experimenting with advanced architectures: UNet, LinkNet, PSPNet, DeepLabv3 and CBD-Net.
