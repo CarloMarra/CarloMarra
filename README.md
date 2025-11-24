@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Carlo Marra
 
-🎓 I'm a Master's student in **Data Science and Engineering** at the Polytechnic University of Turin, with a passion for **machine learning**, **deep learning**, and **reinforcement learning**. My journey combines a strong analytical background with practical applications, tackling challenges from IoT to sim-to-real RL.
+🎓 Graduated in **Data Science and Engineering** at the Polytechnic University of Turin, focused on **efficient deep learning**, **IoT-oriented computer vision**, and deployable AI for constrained edge devices.
 
 ## 🔍 About Me
-- 🧠 **Focused on:** Reinforcement Learning, Deep Learning for IoT, and Statistical Analysis.
-- 🚀 **Current projects:** 
-  - SAR-Based Oil Spill Detection.
-  - Voice-Controlled IoT Systems for Smart Homes.
-- 🌱 Always exploring new ways to bridge theory and real-world applications.
+- 🧠 **Focused on:** Efficient Deep Neural Networks, Computer Vision for IoT, and Reinforcement Learning for real-world systems.
+- 🌱 Concentrated on scalable AI models optimized for edge deployment, bridging research methods with real operational constraints.
+
 
 ## 🛠️ Projects
 ### 🌊 **Semantic Segmentation for SAR-Based Oil Spill Detection**
